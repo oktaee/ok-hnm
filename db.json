@@ -82,7 +82,7 @@
       },
       {
           "id":8,
-          "img":"https://lp2.hm.com/hmgoepprod?set=source[/ad/e9/ade9a2fa40f186b2db875ceb35ca279ca99b300a.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+          "img":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshopping.phinf.naver.net%2Fmain_3516905%2F35169058174.20221011130159.jpg&type=sc960_832",
           "title":"프린트 크롭트 탑",
           "price":14900,
           "choice":true,
@@ -92,7 +92,7 @@
       },
       {
           "id":9,
-          "img":"https://lp2.hm.com/hmgoepprod?set=source[/44/a9/44a926e37e57244c829c3f7a049fc8aa629d276e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+          "img":"https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn-images.farfetch-contents.com%2F18%2F54%2F88%2F34%2F18548834_41972882_1000.jpg&type=sc960_832",
           "title":"프린트 티셔츠",
           "price":19900,
           "choice":false,
@@ -102,7 +102,7 @@
       },
       {
           "id":10,
-          "img":"https://lp2.hm.com/hmgoepprod?set=source[/fa/54/fa547c437bf08076aa46dd66f1a2e6a2cf4a4e3e.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+          "img":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220603_97%2F1654231192984jb9Pd_PNG%2F55367020807895261_1487196175.png&type=sc960_832",
           "title":"와이드 트윌 팬츠",
           "price":19900,
           "choice":true,
@@ -112,7 +112,7 @@
       },
       {
           "id":11,
-          "img":"https://lp2.hm.com/hmgoepprod?set=source[/d1/aa/d1aa5d5d4a3d0699689e7f6187514ad70dc958d6.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+          "img":"https://search.pstatic.net/sunny/?src=https%3A%2F%2Fsalln-item.ssgcdn.com%2F39%2F41%2F81%2Fitem%2F1000524814139_i6_1200.jpg%3Fref%3Dwck&type=sc960_832",
           "title":"플레어 로라이즈 진",
           "price":29900,
           "choice":true,
@@ -122,9 +122,9 @@
       },
       {
           "id":12,
-          "img":"https://lp2.hm.com/hmgoepprod?set=source[/ec/6c/ec6c0b3d387ce9b51d68ee440b979291e929c773.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
-          "title":"프린트 크롭트 탑",
-          "price":14900,
+          "img":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMjZfODAg%2FMDAxNjc0NzI4NTcxMTcz.uPKcmd0LF75WgZQwIA1efHt6Avez82LgIbYDXhG15K8g.EH2ZvvIXLvDgHXhhl3JtB17b4pEs0bJcSkmqyPUofawg.JPEG.wlstlarkwk%2F1674728559777.jpg&type=sc960_832",
+          "title":"CPT",
+          "price":11490000,
           "choice":true,
           "new":true,
           "size":["S","M","L"]
@@ -132,8 +132,8 @@
       },
       {
           "id":13,
-          "img":"https://lp2.hm.com/hmgoepprod?set=source[/37/43/37434b12a61d3e75cb8e7fcb2e0b6cd6ca028c5f.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
-          "title":"플레어 로라이즈 진",
+          "img":"https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2F20130425_21%2Fggambi1370_1366862623810dHoWm_JPEG%2Fna1366862603509.jpg&type=sc960_832",
+          "title":"뚜잉",
           "price":29900,
           "choice":false,
           "new":false,
